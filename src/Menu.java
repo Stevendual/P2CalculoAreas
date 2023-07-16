@@ -61,7 +61,7 @@ public class Menu {
                 System.out.println("El área del círculo es: " + area);
                 break;
             case 5:
-                System.out.println("Ha elegido salir");
+                System.out.println("Has elegido salir");
                 break;
             default:
                 System.out.println("Opcion incorrecta");
