@@ -25,7 +25,7 @@ public class Menu {
                 System.out.println("El área del cuadrado es: " + area);
                 break;
             case 2:
-                System.out.println("Ha elegido rectangulo");
+                System.out.println("Has elegido rectangulo");
                 System.out.print("Ingrese la base del rectángulo: ");
                 base = scanner.nextDouble();
 
